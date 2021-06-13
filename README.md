@@ -1,4 +1,4 @@
-# -Sands-45.github.io Live/ https://sands-45.github.io/-Sands-45.github.io/
+# Sands-45.github.io Live/ https://sands-45.github.io/-Sands-45.github.io/
  About Me I’ve been a professional QA Analyst since 2018.
  I believe in maintaining a positive mindset, creating opportunities with a purpose, 
  and always striving for significant outcomes. When you work with me, you should expect a collaboration with transparency and consistency. 
